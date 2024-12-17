@@ -1,0 +1,10 @@
+.right-24-px-instance,
+.right-24-px-instance * {
+  box-sizing: border-box;
+}
+.right-24-px-instance {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}

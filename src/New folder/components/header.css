@@ -1,0 +1,18 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #f9f9f9;
+}
+
+header nav a {
+  margin: 0 1rem;
+  text-decoration: none;
+  color: #333;
+}
+
+header .icons span {
+  margin-left: 1rem;
+  cursor: pointer;
+}
